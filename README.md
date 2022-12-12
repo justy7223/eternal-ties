@@ -1,2 +1,2 @@
-# eternalties
-Base repository for the eternalties application.
+# eternal-ties
+Base repository for the eternal-ties application.
